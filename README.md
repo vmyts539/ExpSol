@@ -6,7 +6,6 @@ Please ensure your pull request adheres to the following guidelines:
 - [ ] You know the correct merge to use? (Merge Commit / Squash & Merge / Rebase & Merge)
 - [ ] You've ran check commands:
   ```sh
-  rubocop
   rspec
   rake lint
   ```
